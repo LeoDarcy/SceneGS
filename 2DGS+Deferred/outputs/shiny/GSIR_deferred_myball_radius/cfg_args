@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/cpfs01/user/baijiayang/workspace/hdd_workspace/workspace/data/refnerf/shiny_blender/myball', model_path='outputs/shiny/GSIR_deferred_myball_radius', images='images', resolution=-1, white_background=False, data_device='cuda', eval=True, brdf_dim=0, brdf_mode='GSIR', brdf_envmap_res=64, brdf=True)
