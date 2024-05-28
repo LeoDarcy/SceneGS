@@ -32,6 +32,12 @@ Option: Using 2-layer MLP as specular decoder (gaussian_model.py Line 149-154)
 
 Loss: Color loss + normal loss (predicted_normal_loss)
 
+# Scaffold+RefNeRFV3
 
+Code base: Scaffold 
+
+Update: MLP(feature, ~~view direction~~) -> tints/ roughness/ normals 
+
+**We find that HashGrid can not improve. Why?**
 
 
