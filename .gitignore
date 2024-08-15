@@ -8,6 +8,7 @@ view*
 wandb*
 *.bak
 data
+*submodule/*
 *build/*
 *__pycache__*
 diff_rasterization/diff_rast.egg-info
